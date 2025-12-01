@@ -89,7 +89,7 @@ Gosto de aprender, criar e usar tecnologia de forma acessível, prática e human
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=igorlucas2&show_icons=true&theme=dark&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=igorlucas2&show_icons=true&theme=dark"
 />
 
 <img
@@ -97,5 +97,5 @@ Gosto de aprender, criar e usar tecnologia de forma acessível, prática e human
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlucas2&theme=dark&layout=compact&custom_title=Tecnologias&locale=pt-br&langs_count=7"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorlucas2&theme=dark&layout=compact&custom_title=Tecnologias"
 />
